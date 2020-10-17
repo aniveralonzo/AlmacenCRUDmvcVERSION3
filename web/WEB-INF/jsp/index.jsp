@@ -13,7 +13,7 @@
     <body>
         <div class="container mt-4">
             <div class="card border-info">
-                <div class="card-header bg-info text-white">
+                <div class="">
                     <a href="agregar.htm">Nuevo registro</a>                
                 </div>                
                 <div class="card-body">
@@ -47,10 +47,8 @@
                         </c:forEach>    
                         </tbody>
                     </table>
-
                 </div>
             </div>                        
         </div>
     </body>
-
 </html>
